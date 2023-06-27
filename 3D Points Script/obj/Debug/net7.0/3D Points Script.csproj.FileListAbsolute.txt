@@ -1,0 +1,15 @@
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\bin\Debug\net7.0\3D Points Script.exe
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\bin\Debug\net7.0\3D Points Script.deps.json
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\bin\Debug\net7.0\3D Points Script.runtimeconfig.json
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\bin\Debug\net7.0\3D Points Script.dll
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\bin\Debug\net7.0\3D Points Script.pdb
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\obj\Debug\net7.0\3D Points Script.csproj.AssemblyReference.cache
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\obj\Debug\net7.0\3D Points Script.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\obj\Debug\net7.0\3D Points Script.AssemblyInfoInputs.cache
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\obj\Debug\net7.0\3D Points Script.AssemblyInfo.cs
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\obj\Debug\net7.0\3D Points Script.csproj.CoreCompileInputs.cache
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\obj\Debug\net7.0\3D Points Script.dll
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\obj\Debug\net7.0\refint\3D Points Script.dll
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\obj\Debug\net7.0\3D Points Script.pdb
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\obj\Debug\net7.0\3D Points Script.genruntimeconfig.cache
+C:\Users\Con_P\Desktop\3D Points Script\Random-Shape-Generator\3D Points Script\obj\Debug\net7.0\ref\3D Points Script.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Con_P\\Desktop\\3D Points Script\\3D Points Script.csproj",
+      "projectUniqueName": "C:\\Users\\Con_P\\Desktop\\3D Points Script\\Random-Shape-Generator\\3D Points Script\\3D Points Script.csproj",
       "projectName": "3D Points Script",
-      "projectPath": "C:\\Users\\Con_P\\Desktop\\3D Points Script\\3D Points Script.csproj",
+      "projectPath": "C:\\Users\\Con_P\\Desktop\\3D Points Script\\Random-Shape-Generator\\3D Points Script\\3D Points Script.csproj",
       "packagesPath": "C:\\Users\\Con_P\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Con_P\\Desktop\\3D Points Script\\obj\\",
+      "outputPath": "C:\\Users\\Con_P\\Desktop\\3D Points Script\\Random-Shape-Generator\\3D Points Script\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Con_P\\AppData\\Roaming\\NuGet\\NuGet.Config",
